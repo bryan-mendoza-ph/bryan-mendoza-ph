@@ -32,6 +32,4 @@ Academic Profiles
 
 ORCID: [https://orcid.org/0009-0000-8054-7249]
 
-Google Scholar: [Add your Google Scholar profile, if available]
-
 Exploring the Universe through theoretical physics and scientific computing.
